@@ -62,7 +62,9 @@ public class Main {
 		System.out.println(counter);
 		*/
 		
-		int[] a = {0,0,0,0,0,0,0,0};
+		//add some text fo git
+		
+		int[] a = {0,0,0,0,0,0,0,0,0};
 		int[] b = {1,1,1};
 		
 		System.arraycopy(b, 0, a, (a.length-b.length)/2, b.length);
